@@ -1,8 +1,9 @@
 import Card from "./components/card.jsx";
+import Navbar from "./components/navbar.jsx";
 function App() {
     return (
     <>
-        <Card />
+        <Navbar />
         <Card />
     </>)
 }
